@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and developing software
 - 🌱 I’m currently learning frontend and backend web development
 - 💞️ I’m looking to collaborate on Google, Microsoft or another large company
-- 📫 How to reach me you can send me a message via telegram @armandogg24
+- 📫 How to reach me you can send me a message via telegram <a href="https://t.me/armandogg24">@armandogg24</a>
 
 <hr>
 Well that's a lot about me, here you have some of my work:

@@ -7,9 +7,9 @@
 <hr>
 Well that's a lot about me, here you have some of my work:
 <br>
-- <a href="https://github.com/armandogg24/AbogaBot">AbogaBot</a>
+- <a href="../AbogaBot/index.html">AbogaBot</a>
 <br>
-- <a href="https://github.com/armandogg24/me_amas">Me Amas?</a>
+- <a href="../me_amas/index.html">Me Amas?</a>
   
 
 <!---

@@ -5,6 +5,7 @@
 - 📫 How to reach me you can send me a message via telegram <a href="https://t.me/armandogg24">@armandogg24</a>
 
 ![](https://komarev.com/ghpvc/?username=armandogg24)
+[![trophy](https://github-profile-trophy.vercel.app/?username=armandogg24)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 Well that's a lot about me, here you have some of my work:

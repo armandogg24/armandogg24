@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Google, Microsoft or another large company
 - 📫 How to reach me you can send me a message via telegram <a href="https://t.me/armandogg24">@armandogg24</a>
 
+![](https://komarev.com/ghpvc/?username=armandogg24)
+
 <hr>
 Well that's a lot about me, here you have some of my work:
 <br>

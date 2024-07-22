@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Armando<br>👯 I’m looking to collaborate on Google, Microsoft or another big company<br>🌱 I’m currently learning Python, and JavaScript<br>📫 How to reach me armando.dev.contact@gmail.com<br>👨‍💻 All of my projects are available at https://armandogg24.github.io/portfolio/<br>⚡ Fun fact I asked for a computer and a USB as my first Christmas gift. XD
+Hi 👋, I'm Armando<br>👯 I’m looking to collaborate on Google, Microsoft or another big company<br>🌱 I’m currently learning Python, and JavaScript<br>📫 How to reach me https://beacons.ai/armando.dev<br>👨‍💻 All of my projects are available at https://armandogg24.github.io/portfolio/<br>⚡ Fun fact I asked for a computer and a USB as my first Christmas gift. XD
 
 
 ## 🌐 Socials:

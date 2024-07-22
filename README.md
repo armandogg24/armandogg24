@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm armandogg24</h1>
-<h3 align="center">A  Software Developer in training at Launch-X-Latam</h3>
+<h3 align="center">A  Software Developer in training</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandogg24&label=Profile%20views&color=0e75b6&style=flat" alt="armandogg24" /> </p>
 
